@@ -1,5 +1,5 @@
 ---
-title: "万维网之父 Tim 的 SoLiD 数据主权革命"
+title: "fatgarage"
 author: yang-xie
 categories: news
 tags:
