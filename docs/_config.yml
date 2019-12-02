@@ -6,7 +6,7 @@ favicon: assets/images/favicon.ico
 baseurl:
 disqus: preangel
 email: bp@pre-angel.com
-mailchimp-list: https://zixia.us4.list-manage.com/subscribe/post?u=a8584b55dea5aa8bbc14bd1a0&amp;id=d9899f0d70
+mailchimp-list: http://eepurl.com/gK9gwv
 
 include: ["_pages"]
 permalink: /:title/
