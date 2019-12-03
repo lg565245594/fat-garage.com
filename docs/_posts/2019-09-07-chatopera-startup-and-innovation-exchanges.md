@@ -3,9 +3,9 @@ title: Chatopera参加全国创新创业成果交流
 author: kai-zhang
 categories: news
 tags:
-  - chatopera
-  - chatbot
-  - innovation
+  - home
+  - featured
+  - 
 image: assets/2019/09-chatopera-startup-and-innovation-exchanges/6.jpg
 ---
 

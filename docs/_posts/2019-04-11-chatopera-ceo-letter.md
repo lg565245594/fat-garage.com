@@ -1,7 +1,7 @@
 ---
 title: Chatopera | 来自CEO的一封信
 author: hailiang-wang
-categories: news
+categories: tutorial
 tags:
   - chatopera
   - culture
