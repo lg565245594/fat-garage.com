@@ -5,11 +5,10 @@ bio: 智能制造、能源
 avatar: /assets/1001/10011.jpg
 twitter: 
 people:
-  - yiyang-hao
-  - ge-li
-  - yang-liu
+  - jessie-li
+
 ventures:
-  - preangel
+  - a-smu-iie
   - galileo-venture
 ---
 
