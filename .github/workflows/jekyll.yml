@@ -19,7 +19,7 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v1.2.5
       with:
         target_branch: gh-pages
-        build_dir: _site
+        build_dir: /srv/jekyll/_site
       env:
         GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
      
