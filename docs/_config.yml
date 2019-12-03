@@ -6,7 +6,7 @@ favicon: assets/images/favicon.ico
 baseurl:
 disqus: preangel
 email: bp@pre-angel.com
-mailchimp-list: http://eepurl.com/gK9gwv
+mailchimp-list: https://fat-garage.us4.list-manage.com/subscribe/post?u=545e6116a1da22ca6dd2b1c53&amp;id=9b2f10493c
 
 include: ["_pages"]
 permalink: /:title/
