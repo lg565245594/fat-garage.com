@@ -14,3 +14,6 @@ jobs:
         docker run \
         -v ${{ github.workspace }}/docs:/srv/jekyll -v ${{ github.workspace }}/docs/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - name: GitHub Pages Deploy
+      uses: maxheld83/ghpages@v0.2.1
+
