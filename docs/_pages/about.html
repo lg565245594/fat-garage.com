@@ -2,15 +2,15 @@
 title: About
 layout: page-sidebar
 permalink: "/about.html"
-image: assets/2019/2019120101.jpeg
+image: assets/images/logo.jpg
 comments: true
 ---
 
-{% assign preangel = site.ventures | where: 'slug', 'preangel' | first %}
+{% assign fatgarage = site.ventures | where: 'slug', 'fatgarage' | first %}
 
 {% assign partners = '' | split: ',' %}
 {% for person in site.peoples %}
-  {% if preangel.people contains person.slug %}
+  {% if fatgarage.people contains person.slug %}
      {% assign partners = partners | push: person %}
   {% endif %}
 {% endfor %}
@@ -25,4 +25,4 @@ comments: true
 </div>
 </div>
 
-Made with <i class="fa fa-heart text-danger"></i> by <a href="/peoples/zhuohuan-li/">@Huan</a>
+Made with <i class="fa fa-heart text-danger"></i> by <a href="/peoples/jessie-li/">@jessie</a>

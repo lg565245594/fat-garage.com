@@ -1,7 +1,7 @@
 ---
-name: 新加坡管理大学（SMU）创新与创业研究院（IIE)
+name: 新加坡管理大学（SMU）创新与创业研究院（IIE）
 site: 
-bio: 新加坡管理大学（SMU）创新与创业研究院（IIE)是一个以实践为导向的研究所
+bio: 新加坡管理大学（SMU）创新与创业研究院（IIE）是一个以实践为导向的研究所
 avatar: /assets/ventures/smu-iie/icon.png
 twitter: 
 people:
