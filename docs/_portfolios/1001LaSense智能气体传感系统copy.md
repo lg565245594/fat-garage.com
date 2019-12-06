@@ -1,16 +1,16 @@
 ---
 name: LaSense智能气体传感系统
-site: https://www.rengroup.mae.cuhk.edu.hk/
-bio: 填补能源工业生产过程中气体物质快速在线监测的行业空白。
-avatar: /assets/1001/10011.jpg
+site: http://www.labelhub.cn
+bio: 通过LabelHub独有的交互模式缩短数据标注周期50%以上
+avatar: /assets/portfolios/10021.png
 twitter: 
 people:
   - jessie-li
-
 ventures:
   - a-smu-iie
   - a-fatgarage
-  - jessie-li
+notes:
+  - 学渣逆袭
 ---
 
 LaSense智能气体传感系统是香港中文大学博士许可发起的科技创业项目。
