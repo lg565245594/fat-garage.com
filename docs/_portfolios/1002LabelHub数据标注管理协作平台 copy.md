@@ -5,9 +5,10 @@ bio: 人工智能
 avatar: /assets/portfolios/10021.png
 twitter: 
 people:
-  - yong-chen
+  - jessie-li
 ventures:
-  - preangel
+  - a-smu-iie
+  - a-fatgarage
 notes:
   - 学渣逆袭
 ---

@@ -9,7 +9,7 @@ people:
 
 ventures:
   - a-smu-iie
-  - galileo-venture
+  - a-fatgarage
 ---
 
 LaSense智能气体传感系统是香港中文大学博士许可发起的科技创业项目。
