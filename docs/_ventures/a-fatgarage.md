@@ -2,7 +2,7 @@
 name: Fat Garage (胖车库)
 site: http://www.fat-garage.com
 bio: open to design，discuss and change
-avatar: /assets/images/logo.jpg
+avatar: /assets/ventures/fatgarage/logo-icon.png
 twitter: 
 email: contact@fat-garage.com
 people:

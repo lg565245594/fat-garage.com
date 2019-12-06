@@ -10,6 +10,7 @@ people:
 ventures:
   - a-smu-iie
   - a-fatgarage
+  - jessie-li
 ---
 
 LaSense智能气体传感系统是香港中文大学博士许可发起的科技创业项目。
