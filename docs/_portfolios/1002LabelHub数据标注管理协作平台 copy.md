@@ -1,7 +1,7 @@
 ---
 name: LabelHub数据标注管理协作平台
 site: http://www.labelhub.cn
-bio: 人工智能
+bio: 通过LabelHub独有的交互模式缩短数据标注周期50%以上
 avatar: /assets/portfolios/10021.png
 twitter: 
 people:

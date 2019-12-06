@@ -1,7 +1,7 @@
 ---
 name: LaSense智能气体传感系统
 site: https://www.rengroup.mae.cuhk.edu.hk/
-bio: 智能制造、能源
+bio: 填补能源工业生产过程中气体物质快速在线监测的行业空白。
 avatar: /assets/1001/10011.jpg
 twitter: 
 people:
