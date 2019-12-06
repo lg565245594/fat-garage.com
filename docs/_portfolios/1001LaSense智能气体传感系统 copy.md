@@ -24,9 +24,10 @@ LaSense的使命是利用中大任伟教授实验团队自主研发的可调谐�
 ## 创始人
 许可 Kerr XU
 
-[https://www.linkedin.com/in/ke-xu-543793123/](https://www.linkedin.com/in/ke-xu-543793123/)
+[www.linkedin.com/in/peter-yang-6abb0336](http://www.linkedin.com/in/peter-yang-6abb0336)
+
 
 团队创始人许可，师从香港中文大学任伟教授攻读博士学位，长期从事新型激光光谱技术以及激光成像技术的科研工作，第一作者发表SCI论文两篇、国际会议论文四篇。多次作为技术负责人代表香港竞逐各大科技展会，曾受到香港特首林郑月娥、香港中文大学前校长沈祖尧教授等政要和专家的关注。此外，许可长期从事政府活动及商业演出的主持工作，具备专业的演讲和沟通能力。因出色的学术成绩和全面的能力结构，许可在博士期间得到了香港政府博士奖学金计划的资助嘉奖（全港1%）。
 
 一篇文章让你了解我在做什么
-[https://mp.weixin.qq.com/s/3M3u23iR0so6hhrZrjZiWg](https://mp.weixin.qq.com/s/3M3u23iR0so6hhrZrjZiWg)
+[https://www.jianshu.com/p/d13876cf44fd](https://www.jianshu.com/p/d13876cf44fd)
