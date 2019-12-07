@@ -22,5 +22,5 @@ Fat Garage胖车库有几个意思
 
 - [微信公众号QR]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
 - [Telegram](https://t.me/fatgarage)
-- [Podcast](http://www.ximalaya.com/swf/album/red.swf?29606210)
+- [Podcast](http://xima.tv/B41MrV)
 

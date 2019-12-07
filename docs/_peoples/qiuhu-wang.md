@@ -6,7 +6,7 @@ bio: 开物投资创始合伙人，中文在线联合创始人
 email: jeff.wang@kaiwucapital.com
 twitter: 
 tags:
-  - lp
+
   - pa5
 ---
 

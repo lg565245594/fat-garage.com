@@ -8,8 +8,8 @@ people:
   - jessie-li
 
 ventures:
-  - a-smu-iie
-  - a-fatgarage
+  - smu-iie
+  - fatgarage
   - jessie-li
 ---
 

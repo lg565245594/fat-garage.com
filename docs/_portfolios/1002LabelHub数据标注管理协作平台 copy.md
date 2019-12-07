@@ -7,8 +7,8 @@ twitter:
 people:
   - jessie-li
 ventures:
-  - a-smu-iie
-  - a-fatgarage
+  - smu-iie
+  - fatgarage
 notes:
   - 学渣逆袭
 ---

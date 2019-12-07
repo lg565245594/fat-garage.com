@@ -6,7 +6,7 @@ avatar: /assets/peoples/xiaosong-liu/avatar.jpg
 email: alvin@qingsongfund.com
 twitter: 
 tags:
-  - lp
+
   - pa5
 ---
 

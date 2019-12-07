@@ -6,7 +6,7 @@ avatar: /assets/peoples/xin-he/avatar.jpg
 email: xin.a.he@gmail.com
 twitter: https://weibo.com/hexinrobin
 tags:
-  - lp
+
   - pa9
 ---
 

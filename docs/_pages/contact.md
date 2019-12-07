@@ -11,7 +11,9 @@ permalink: /contact.html
 					<div class="col-md-6 mb-2 mb-md-0">
 						<h5 class="font-weight-bold">Join Newsletter</h5>
 						 Get the latest update of Fat Garage !
-                         “The void I saw in the future was no longer a liability, but the greatest opportunity.”
+                         <p>
+						 “The void I saw in the future was no longer a liability, but the greatest opportunity.”
+						 </p>
 					</div>
 					<div class="col-md-6">
 						<div class="row">

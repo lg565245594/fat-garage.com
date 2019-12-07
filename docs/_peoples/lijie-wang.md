@@ -6,7 +6,7 @@ bio: PA天使基金创始合伙人。使命驱动，帮助创业者成功，成�
 email: leo@preangelfund.com
 twitter: https://twitter.com/betashow
 tags:
-  - lp
+
   - pa5
 ---
 

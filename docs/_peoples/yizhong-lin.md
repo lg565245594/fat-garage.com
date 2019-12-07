@@ -6,7 +6,7 @@ avatar: /assets/peoples/yizhong-lin/avatar.jpg
 email: 
 twitter: https://www.weibo.com/u/1888645251
 tags:
-  - lp
+
   - pa5
 ---
 

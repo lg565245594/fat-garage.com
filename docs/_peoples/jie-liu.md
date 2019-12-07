@@ -6,7 +6,7 @@ bio: 时光小屋创始人 & CEO，一个女儿的爸爸
 email: jsonsliu@gmail.com
 twitter: https://www.facebook.com/jason.liu.355138
 tags:
-  - lp
+
   - pa5
 itjuzi: https://www.itjuzi.com/person/437
 ---
