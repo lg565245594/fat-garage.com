@@ -18,3 +18,9 @@ Fat Garage胖车库有几个意思
  3.月半--也就是15天，想表达的是做个事儿没那么难，所以开始吧！
  
  以上
+
+
+- [PreAngel Wechat QRCode]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
+- [Telegram](https://t.me/fatgarage)
+- [Podcast](http://www.ximalaya.com/swf/album/red.swf?29606210)
+
