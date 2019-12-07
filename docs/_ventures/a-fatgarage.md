@@ -20,7 +20,7 @@ Fat Garage胖车库有几个意思
  以上
 
 
-- [Wechat QRCode]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
+- [微信公众号QR]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
 - [Telegram](https://t.me/fatgarage)
 - [Podcast](http://www.ximalaya.com/swf/album/red.swf?29606210)
 
