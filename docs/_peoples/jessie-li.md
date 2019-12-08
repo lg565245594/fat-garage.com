@@ -6,6 +6,9 @@ bio: 致力于推进跨地域的文化技术交流
 email: contact@fat-garage.com
 twitter: 
 itjuzi: 
+tags:
+  - lp
+  - pa5
 ---
 
 Jessie Li ，SMU IIE 中国区顾问，全球创新沉浸项目导师 ，区块链自媒体橙皮书创始团队，胖车库创业社区发起者

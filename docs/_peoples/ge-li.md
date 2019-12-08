@@ -5,9 +5,7 @@ bio: AIxCoder 创始人，北京大学信息科学技术学院软件研究所副
 avatar: /assets/peoples/ge-li/avatar.jpg
 email: lige@pku.edu.cn
 twitter: 
-tags:
-  - lp
-  - pa5
+
 ---
 
 李戈，北京大学信息科学技术学院副教授，毕业于北京大学计算机系软件与理论专业获博士学位，曾赴斯坦福大学计算机系人工智能实验室从事深度学习方面的合作研究，任职访问副教授。
