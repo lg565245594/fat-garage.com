@@ -19,7 +19,8 @@ Jessie Li对区块链技术应用、分布式协作实践有浓厚兴趣，同�
 ## Contact
 
 
-- GitHub:https://github.com/lg565245594 
+- GitHub: <https://github.com/lg565245594>
+
 - Email: <contact@fat-garage.com>
 
 
