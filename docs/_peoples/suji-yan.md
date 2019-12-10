@@ -1,5 +1,5 @@
 ---
-name: Suji-yan
+name: Suji Yan
 site: https://www.linkedin.com/in/tedkoyan/
 avatar: /assets/peoples/suji-yan/avatar.png
 bio: 

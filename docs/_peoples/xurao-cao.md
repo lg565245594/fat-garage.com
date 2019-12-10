@@ -1,7 +1,8 @@
 ---
-name: Xurao cao（曹绪尧）
+name: Xurao Cao（曹绪尧）
 site: https://www.linkedin.com/in/绪尧-曹-87909314b/?trk=pub-pbmap&originalSubdomain=bd
-avatar: /assets/peoples/xurao-cao/avatar.png
+avatar: /assets/peoples/xurao-cao/avatar.jpg
+
 bio: 
 email: 
 twitter: 

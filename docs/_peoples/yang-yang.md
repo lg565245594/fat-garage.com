@@ -1,5 +1,5 @@
 ---
-name: Yang-yang（杨洋）
+name: Yang Yang（杨洋）
 site: http://www.linkedin.com/in/peter-yang-6abb0336
 avatar: /assets/peoples/yang-yang/avatar.png
 bio: 
