@@ -28,11 +28,13 @@ description: PreAngel - 300+家中美初创企业背后的天使投资机构：�
     </p>
     <div>
         <small class="d-block text-muted">
+            {% if latest_post.categories%}
             In <span class="catlist">
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>
+            {% endif %}
         </small>
         <small class="text-muted">
             {{ latest_post.date | date: '%b %d, %Y' }}
@@ -59,11 +61,13 @@ description: PreAngel - 300+家中美初创企业背后的天使投资机构：�
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                    {% if second_post.categories%}
                         In <span class="catlist">
                         {% for category in second_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
+                    {% endif %}
                     </small>
                     <small class="text-muted">
                         {{ second_post.date | date: '%b %d, %Y' }}
@@ -86,11 +90,13 @@ description: PreAngel - 300+家中美初创企业背后的天使投资机构：�
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                    {% if  third_post.categories%}                  
                         In <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
+                    {% endif %}
                     </small>
                     <small class="text-muted">
                         {{ third_post.date | date: '%b %d, %Y' }}
@@ -113,11 +119,13 @@ description: PreAngel - 300+家中美初创企业背后的天使投资机构：�
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                    {% if  fourth_post.categories %}                    
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
+                    {% endif %}
                     </small>
                     <small class="text-muted">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
