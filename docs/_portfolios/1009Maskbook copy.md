@@ -2,7 +2,7 @@
 name: Maskbook
 site: maskbook.com
 bio: Make Privacy Protected Again
-avatar: /assets/portfolios/1006/icon.png
+avatar: /assets/portfolios/1009/icon.png
 twitter: 
 people:
   - suji-yan
@@ -10,7 +10,7 @@ people:
 ---
 Maskbook 帮助你在Facebook、Twitter等社交网站上自动加密帖子和聊天记录，防止被 Facebook 审查和利用数据，且只有你和朋友可以解密，甚至 Maskbook 的开发者也不行。
 
-![Gospel](/assets/portfolios/1006/info.png)
+![Gospel](/assets/portfolios/1009/info.png)
 
 
 
