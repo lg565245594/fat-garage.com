@@ -6,8 +6,7 @@ bio: 胖车库文化间谍
 email: 
 twitter:
 tags:
-  - lp
-  - pa5
+ 
 
 ---
 #### 自我介绍
