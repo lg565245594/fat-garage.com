@@ -6,9 +6,8 @@ bio: 胖车库农民
 email: contact@fat-garage.com
 twitter: 
 itjuzi: 
-tags:
-  - lp
-  - pa5
+
+
 ---
 
 证件照比自拍好看，身边的的朋友都比我厉害。
