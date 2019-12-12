@@ -1,5 +1,5 @@
 ---
-title: Fat garage guide 胖车库指北
+title: Fat Garage Guide 胖车库指北
 author: jessie-li
 categories: news
 tags:
@@ -21,28 +21,17 @@ Fat Garage是一个公共产品。
 * 主页
 1. 导航文档，比如指北和初心等矫情文 
 2. 自营的一些创业者栏目，比如胖车库采访；海龟创业talk show一点钟的波士顿；广车周末线下分享会等
-
 ![walking](/assets/2019/2019121202.png)
-
 * 项目
 
 ###### 自己找的项目和合作伙伴推荐的项目
-
 ![walking](/assets/2019/2019121203.png)
-
 * 伙伴
-
 ###### 帮忙推荐项目的合作伙伴们
-
 ![walking](/assets/2019/2019121204.png)
-
 * 贡献者
-
 ###### 为网站建设做贡献的画风清奇的极客们
-
-
 ![walking](/assets/2019/2019121205.png)
-
 ## 不同的人怎么参与？
 ![walking](/assets/2019/2019121206.png)
 
