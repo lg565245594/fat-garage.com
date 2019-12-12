@@ -90,6 +90,15 @@ layout: default
       {% endif %}
       <!-- Posts End -->
 
+      			<!-- Tags -->
+			<div class="mb-4">
+				<span class="taglist">
+				{% for tag in page.projecttags %}
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/projecttags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				{% endfor %}
+				</span>
+			</div>
+
 
       <!-- Comments -->
       {% if page.comments != false %}

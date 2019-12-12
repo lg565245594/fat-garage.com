@@ -1,0 +1,35 @@
+---
+title: ProjectTags
+layout: default
+permalink: /projecttags.html
+---
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">ProjectTags</h1>
+        
+        {% assign tags = site.portfolios[0].projecttags %}
+        {% for a in site.portfolios %}
+            {% if a.projecttags %}
+                {% assign tags = tags | concat: a.projecttags |uniq %}
+            {% endif %}
+        {% endfor %}  
+
+        {% for tag in tags %}
+          <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag | downcase }}"><span>{{ tag }}</span></h4>
+          {% assign project_list = site.portfolios | where: 'projecttags', tag %}
+          {% for post in project_list %}
+                {% include main-loop-card-projecttags.html %}
+          {% endfor %}
+         
+        {% endfor %} 
+
+        </div>
+
+            <div class="col-md-4">
+        {% comment %} {% include sidebar-featured.html %} {% endcomment %}
+    </div>
+
+    </div>
+</div>
