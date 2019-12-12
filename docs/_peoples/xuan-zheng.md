@@ -5,9 +5,7 @@ bio: 伽利略资本 董事总经理
 avatar: /assets/peoples/xuan-zheng/avatar.jpg
 email: zheng@xuanr.net
 twitter: 
-tags:
-  - lp
-  - pa5
+
 ---
 
 自2016年加入伽利略资本以来，郑譞参与投资和管理了梅卡曼德（Mech-Mind Robotics）、图漾科技（percipio.xyz）、量知数据、硅心科技（aiXcoder）、恒力华振、佳安智能等等数十个优秀的“硬科技”创业公司。
