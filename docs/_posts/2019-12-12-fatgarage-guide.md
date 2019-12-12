@@ -1,5 +1,5 @@
 ---
-title: Fat Garage Guide 胖车库指北
+title: Fat Garage Guide
 author: jessie-li
 categories: news
 tags:
@@ -9,48 +9,54 @@ tags:
 
 image: assets/2019/2019121201.png
 ---
-Fat Garage是一个公共产品。
+Fat Garage is a public good.
 
-我们想要展示那些有趣的想法，这些努力的企业家们致力于…某种程度上使人们生活得更好或
+We wanna onboard the ideas/efforts that can...somewhat make people better lives OR 
 
-只是该死的酷
+just damn **COOL**
 
-你也可以「成为」他们或「帮助」他们，或至少 **请多多关注他们**
+Hopefully you can be...somewhat encouraged to Start something Up OR
 
-### 每一部分是什么？
-* 主页
-1. 导航文档，比如指北和初心等矫情文 
-2. 自营的一些创业者栏目，比如胖车库采访；海龟创业talk show一点钟的波士顿；广车周末线下分享会等
+just give them your kind **ATTENTION ;)**
+
+## What's in each section？
+* Homepage 
+1. Some know-how documents
+1.  Some self-operated contents, such as fat garage interview; Overseas entrepreneurs talk show 「1 o 'clock Boston」;  Startup weekends and so on.
 ![walking](/assets/2019/2019121202.png)
-* 项目
+* Projects 
 
-###### 自己找的项目和合作伙伴推荐的项目
+Early stage projects from China and aboard，referred by partners.
 ![walking](/assets/2019/2019121203.png)
-* 伙伴
-###### 帮忙推荐项目的合作伙伴们
+* Partners 
+
+Entities who help refer legit and interesting projects.
 ![walking](/assets/2019/2019121204.png)
-* 贡献者
-###### 为网站建设做贡献的画风清奇的极客们
+* Contributors 
+
+Individuals who are gifted and contribute to the FG website development.
 ![walking](/assets/2019/2019121205.png)
-## 不同的人怎么参与？
+
+## How can people get engaged in FG？
 ![walking](/assets/2019/2019121206.png)
 
 
-* 合作伙伴
+* Partner/Contributor
+1. Website construction 
 
-1.网站建设
+People who contribute to the web construction will be considered as a contributor,as for now we have @gaojin @qijin @tongmu who help with the current version.Anyone who has some thoughts about FG can apply to be a **「contributor」,**pls send email to： contact@fatgarage.com
 
-对网站建设有贡献的人将被视为贡献者，目前我们有@gaojin @qijin @tongmu在协助构建当前版本。任何对FG有一些想法的人都可以申请成为“贡献者”，发邮件到：contact@fatgarage.com 加入
 
-2.网站内容建设
+1. Content construction 
 
-现在，我们需要一些伙伴帮助:
+Now we are actively engaging partners who can help :
 
-1）推荐好的项目
+1） Refer good projects
 
-2）做一些对创业者有意的周边产品（播客、talk show等），同样有兴趣可以发邮件到：contact@fatgarage.com
+2）Collaboratively Create contents in various ways （podcast/talk show etc)
 
 
 ![walking](/assets/2019/2019121207.png)
-## 打赏 & 订阅
-(尚在建设中...）欢迎贡献脑洞
+## Tipping Us & Newsletter 
+On the way...stay tuned！
+
