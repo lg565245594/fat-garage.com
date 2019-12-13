@@ -5,8 +5,6 @@ categories: news
 tags:
   - home
   - featured
-  - sticky
-  - conference
   - host
 image: assets/2019/2019120303.jpeg
 ---
