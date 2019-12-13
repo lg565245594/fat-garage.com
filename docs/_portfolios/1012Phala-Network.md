@@ -7,6 +7,9 @@ twitter:
 people:
   - hang-yin
 
+projecttags:
+  - 区块链
+  - 隐私保护
 ---
 Phala.Network是基于可信计算技术（TEE）的机密智能合约平台，目标是为企业和用户提供机密计算、数据保护的基础设施。
 

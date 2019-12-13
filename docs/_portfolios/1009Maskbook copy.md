@@ -7,6 +7,8 @@ twitter:
 people:
   - suji-yan
 
+projecttags:
+  - 隐私保护
 ---
 Maskbook 帮助你在Facebook、Twitter等社交网站上自动加密帖子和聊天记录，防止被 Facebook 审查和利用数据，且只有你和朋友可以解密，甚至 Maskbook 的开发者也不行。
 

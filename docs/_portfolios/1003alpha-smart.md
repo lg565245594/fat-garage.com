@@ -8,6 +8,9 @@ people:
   - xurao-cao
 ventures:
   - fatgarage
+
+projecttags:
+  - 物联网
 ---
 公司2018年成立于清华科技园，是一家致力于LED驱动器芯片、集成电路、物联网产品开发的科技型公司。其核心产品是在国际领先的微形LED驱动器芯片上搭载5G、WiFi、蓝牙、ZigBee、NFC等通讯模块，打造数据传输的信息高速公路。
 

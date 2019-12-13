@@ -7,6 +7,8 @@ twitter:
 people:
   - vincent-yang
 
+projecttags:
+  - 区块链
 ---
 ChainlyRent（链租科技）致力于打造数字时代的新一代房屋租赁交易系统，瞄准了运用区块链智能合约进行租金押金托管和争议解决。
 

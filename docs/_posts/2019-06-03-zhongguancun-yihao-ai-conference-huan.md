@@ -1,6 +1,6 @@
 ---
 title: 测试
-author: jessie-li
+author: qijin
 categories: news
 tags:
   - featured

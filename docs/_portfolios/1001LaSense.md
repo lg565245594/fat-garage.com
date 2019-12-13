@@ -12,7 +12,8 @@ ventures:
   - jessie-li
 
 projecttags:
-  - test01
+  - 智能制造
+  - 能源
 ---
 
 

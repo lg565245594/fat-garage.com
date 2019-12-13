@@ -6,6 +6,9 @@ avatar: /assets/portfolios/1010/icon.png
 twitter: 
 people:
   - qiao-chu
+
+projecttags:
+  - 人工智能
 ---
 
 超弦(String) AI 采用智能知识图谱和多模态深度学习的核心技术，打造全球领先的IP价值评估引擎 为用户提供一站式人工智能分析数据，构建IP行业的 “人工智能大脑”

@@ -42,12 +42,12 @@ Individuals who are gifted and contribute to the FG website development.
 
 
 * Partner/Contributor
-1. Website construction 
+1.Website construction 
 
 People who contribute to the web construction will be considered as a contributor,as for now we have @gaojin @qijin @tongmu who help with the current version.Anyone who has some thoughts about FG can apply to be a **「contributor」,**pls send email to： contact@fatgarage.com
 
 
-1. Content construction 
+2.Content construction 
 
 Now we are actively engaging partners who can help :
 
