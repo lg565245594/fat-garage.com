@@ -22,7 +22,8 @@ just give them your kind **ATTENTION ;)**
 ## What's in each section？
 * Homepage 
 1. Some know-how documents
-1.  Some self-operated contents, such as fat garage interview; Overseas entrepreneurs talk show 「1 o 'clock Boston」;  Startup weekends and so on.
+2.  Some self-operated contents, such as fat garage interview; Overseas entrepreneurs talk show 「1 o 'clock Boston」;  Startup weekends and so on.
+
 ![walking](/assets/2019/2019121202.png)
 * Projects 
 
@@ -51,9 +52,9 @@ People who contribute to the web construction will be considered as a contributo
 
 Now we are actively engaging partners who can help :
 
-1） Refer good projects
+1)Refer good projects
 
-2）Collaboratively Create contents in various ways （podcast/talk show etc)
+2)Collaboratively Create contents in various ways （podcast/talk show etc)
 
 
 ![walking](/assets/2019/2019121207.png)
