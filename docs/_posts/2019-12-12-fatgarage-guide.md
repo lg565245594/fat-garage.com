@@ -1,5 +1,5 @@
 ---
-title: Fat Garage Guide
+title: Fat Garage Guide胖车库指北
 author: jessie-li
 categories: news
 tags:
@@ -10,7 +10,6 @@ tags:
 image: assets/2019/2019121201.png
 ---
   Fat Garage is a public good.
-
   We wanna onboard the ideas/efforts that can...somewhat make people better lives OR just damn **COOL**
 
   Hopefully you can be...somewhat encouraged to Start something Up OR
