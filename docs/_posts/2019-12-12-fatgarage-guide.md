@@ -1,5 +1,5 @@
 ---
-title: Fat Garage Guide胖车库指北
+title: Fat Garage Guide
 author: jessie-li
 categories: news
 tags:
