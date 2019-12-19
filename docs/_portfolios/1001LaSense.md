@@ -9,7 +9,7 @@ people:
 ventures:
   
   - fatgarage
-  - jessie-li
+
 
 projecttags:
   - 智能制造
