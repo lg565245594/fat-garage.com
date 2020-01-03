@@ -81,4 +81,4 @@ Sourcecred的论坛有很多关于DAO的讨论，而且他们本身也在实践�
 [DAO Reputation System Challenges](https://discourse.sourcecred.io/t/dao-reputation-system-challenges/165)
 
 编译：Jessie  
-```头图选自插画师emiliano ponzi的作品```
+```头图选自插画师Emiliano Ponzi的作品```
