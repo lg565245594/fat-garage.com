@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lg565245594/fat-garage.com.git/pre-angel.com.git"
+    "url": "git+https://github.com/fat-garage/fat-garage.com.git"
   },
   "keywords": [
     "PreAngel",
@@ -27,9 +27,9 @@
   "author": "Huan LI <zixia@zixia.net>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/lg565245594/fat-garage.com.git/pulls"
+    "url": "https://github.com/fat-garage/fat-garage.com/pulls"
   },
-  "homepage": "https://github.com/lg565245594/fat-garage.com.git#readme",
+  "homepage": "https://github.com/fat-garage/fat-garage.com#readme",
   "devDependencies": {
     "@chatie/eslint-config": "^0.8.1",
     "@chatie/git-scripts": "^0.2.5",
