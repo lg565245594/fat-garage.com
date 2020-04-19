@@ -10,6 +10,7 @@ mailchimp-list: 'https://fat-garage.us4.list-manage.com/subscribe/post?u=545e611
 
 include: ["_pages"]
 permalink: /:title/
+url: https://fat-garage.com
 
 # Plugins
 plugins:
