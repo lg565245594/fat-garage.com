@@ -8,47 +8,7 @@ layout: default
 
     {% include item-content.html %}
 
-    <div class="col-md-12">
-      <h4 class="font-weight-bold spanborder"><span>Projects from {{page.name}}</span></h4>
-
-      {% assign venture_portfolios = '' | split: ',' %}
-      {% for portfolio in site.portfolios %}
-        {% if portfolio.ventures contains page.slug %}
-          {% assign venture_portfolios = venture_portfolios | push: portfolio %}
-        {% endif %}
-      {% endfor %}
-
-      <div class="container">
-        <div class="row gap-y listrecent listauthor">
-          {% assign item_type = 'portfolios' %}
-          {% for item in venture_portfolios %}
-          {% include main-loop-card-item.html %}
-          {% endfor %}
-        </div>
-      </div>
-
-
-
-      <!-- People Start -->
-      <h4 class="font-weight-bold spanborder"><span>People from {{page.name}}</span></h4>
-
-      {% assign venture_people = '' | split: ',' %}
-      {% for person in site.peoples %}
-        {% if page.people contains person.slug %}
-          {% assign venture_people = venture_people | push: person %}
-        {% endif %}
-      {% endfor %}
-
-      <div class="container">
-        <div class="row gap-y listrecent listauthor">
-          {% assign item_type = 'peoples' %}
-          {% for item in venture_people %}
-          {% include main-loop-card-item.html %}
-          {% endfor %}
-        </div>
-      </div>
-      <!-- People End -->
-
+    
       <!-- Posts Start -->
       {% assign posts = site.posts | where:"author", page.slug %}
       {% assign posts_size = posts | size %}

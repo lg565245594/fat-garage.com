@@ -1,5 +1,5 @@
 ---
-name: Fat Garage (胖车库)
+name: Fat Garage E01
 site: http://www.fat-garage.com
 bio: open to design，discuss and change
 avatar: /assets/ventures/fatgarage/logo-icon.png
