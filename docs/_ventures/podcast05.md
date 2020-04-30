@@ -32,7 +32,7 @@ people:
 <iframe height="230" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=286318338&type=red" frameborder=0 allowfullscreen></iframe>
 
 
-   更多关注
+   更多请关注
 
 - [微信公众号QR]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
 - [Telegram](https://t.me/fatgarage)
