@@ -29,7 +29,7 @@ people:
 
 下面是播客音频，Enjoy。（本期完）
 
-<iframe height="230" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=286318338&type=red" frameborder=0 allowfullscreen></iframe>
+<iframe height="80" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=286318338&type=red" frameborder=0 allowfullscreen></iframe>
 
 
    更多请关注

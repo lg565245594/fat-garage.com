@@ -45,7 +45,7 @@ Life is about creating something you passionate about ,if not just **PIVOT** it 
 
 
 
-<iframe height="230" width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=215527886&type=red" frameborder=0 allowfullscreen></iframe>
+<iframe height="80" width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=215527886&type=red" frameborder=0 allowfullscreen></iframe>
 
 
 
