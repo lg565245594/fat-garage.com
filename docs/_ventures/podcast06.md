@@ -1,13 +1,14 @@
 ---
-title: Fat Garage E06 创作者的救赎
-author: jessie-li
-categories: podcast
-tags:
-  - featured
-  - podcast
-  - sticky
-image: assets/2020/04/27/1.png
+name: Fat Garage E06
+site: http://www.fat-garage.com
+bio: 创作者的救赎
+avatar: /assets/ventures/fatgarage/logo-icon.png
+twitter: 
+email: contact@fat-garage.com
+people:
+  - jessie-li
 ---
+
 
 
 **对话：[[岛娘 Minakokojima]]**
@@ -56,11 +57,14 @@ image: assets/2020/04/27/1.png
 
           基于token的开发者社区
 
-下面是播客音频，Enjoy。
+下面是播客音频，Enjoy。（本期完）
+
+<iframe height="80" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=286318338&type=red" frameborder=0 allowfullscreen></iframe>
 
 
-<iframe height="230" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=306422309&type=red" frameborder=0 allowfullscreen></iframe>
+   更多请关注
 
-（本期完）
-
+- [微信公众号QR]({{ 'assets/ventures/fatgarage/wechat-code.jpg' | relative_url }})
+- [Telegram](https://t.me/fatgarage)
+- [Podcast](http://xima.tv/B41MrV)
 
