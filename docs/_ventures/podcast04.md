@@ -1,7 +1,7 @@
 ---
 name: Fat Garage E04
 site: http://www.fat-garage.com
-bio: 对话以色列风投创始人Ofer Rotem
+bio: 对话投资人Ofer Rotem
 avatar: /assets/ventures/fatgarage/logo-icon.png
 twitter: 
 email: contact@fat-garage.com
