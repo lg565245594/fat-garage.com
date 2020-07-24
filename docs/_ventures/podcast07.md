@@ -2,7 +2,7 @@
 name: Fat Garage E07
 site: http://www.fat-garage.com
 bio: 零知识证明为什么重要
-avatar: /assets/ventures/fatgarage/logo-icon.png
+avatar: /assets/ventures/fatgarage/guoyu.jpg
 twitter: 
 email: contact@fat-garage.com
 people:
