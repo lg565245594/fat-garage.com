@@ -56,10 +56,11 @@ Conor如果你看他的Twitter，你会觉得这个人无时不刻不在思考�
 Conor在20 minute VC的播客中说，
 
 >Roam的最终愿景是让索马里兰或世界任何一个地方的某个孩子不必上学就能学到所有需要学习的知识，然后凭借他对**全球知识图谱**所做的贡献，赢得诺贝尔奖或得到一份像spaceX这样的公司的offer。
+<div align=center><img width="100%" height="100%" src="/assets/2020/10/14/3.png"/></div>
 
 当你看到这样的严重满足你自己愿景的东西时，你也会像我一样。
 
-<div align=center><img width="100%" height="100%" src="/assets/2020/10/14/3.png"/></div>
+<div align=center><img width="100%" height="100%" src="/assets/2020/10/14/4.png"/></div>
 
 相关阅读：
 
