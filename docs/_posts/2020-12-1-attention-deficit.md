@@ -10,7 +10,6 @@ image: assets/2020/12/1/1.png
 ---
 昨天一口气读了The world after capital，将来的技术需要显示的**超能力是**：帮助人加速知识（knowledge）的生产。因为人们逐渐开始意识到现在越来越稀缺的不是资本，而是**注意力**。
 
-<div align=center><img width="100%" height="100%" src="/assets/2020/12/1/2.png"/></div>
 
 World after Capital,作者USV 合伙人Albert Wenger
 
@@ -58,7 +57,8 @@ World after Capital,作者USV 合伙人Albert Wenger
 
 >Most innovations arent novel ideas ——Tim Ferriss[3]
 
-<div align=center><img width="100%" height="100%" src="/assets/2020/12/1/5.png"/></div>知识生产闭环
+<div align=center><img width="100%" height="100%" src="/assets/2020/12/1/5.png"/></div>
+<div align=center>知识生产闭环</div>
 
 加速知识的积累，可以缓解注意力的稀缺。也就是说，如果注意力（attention）作为一种有限的资源，不能指望它24小时变48小时，只能借助科技加速知识的积累和链接，来解决人们面临的问题。
 
