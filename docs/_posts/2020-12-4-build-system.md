@@ -80,7 +80,7 @@ Ryan在书中提到了通过“提问题”进行迭代，这个方法的有趣�
 
 [「比特币是什么？」](http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&mid=2247484097&idx=1&sn=87ab8bf12ff28713317299c3e457fc56&chksm=fe624c6fc915c579741870a55b47376cf00e0f3e59723588c28d89f470c93be10704e59e821f&scene=21#wechat_redirect)与 告诉自己「每天要学习比特币啊」之间的心理差异。
 
-当然这个方法论在Roam的结构中会更加的舒适，Ryan在《Fractal Inquiry》这本书里也进行了详细的说明（给Ryan打个广告，点**阅读原文**获取此书链接）。
+当然这个方法论在Roam的结构中会更加的舒适，Ryan在《Fractal Inquiry》这本书里也进行了详细的说明。
 
 <div align=center><img width="100%" height="100%" src="/assets/2020/12/4/5.png"/></div>
 
