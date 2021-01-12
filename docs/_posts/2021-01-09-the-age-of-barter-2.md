@@ -112,7 +112,7 @@ NFT是可以承载社区中关系的社交名片，比如之前YFII为社区的�
 
 于是我开始设想...
 
-## 如果给roam社区设计NFT？
+<div align=center>如果给roam社区设计NFT?</div>
 
 #### 用户如何获得：
 
