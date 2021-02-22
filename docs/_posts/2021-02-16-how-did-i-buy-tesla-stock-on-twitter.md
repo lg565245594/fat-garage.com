@@ -67,7 +67,8 @@ Jo正在把她的**实体生意**与区块链结合，将服装品牌代币化�
 
 ![图片](/assets/2021/02/16/6.png)代币化一篇essay
 
-![图片](/assets/2021/02/16/7.gif)代币化一个文创产品（Roam Logo黑曜石挂件）
+![图片](/assets/2021/02/16/7.gif)
+代币化一个文创产品（Roam Logo黑曜石挂件）
 
 我从19年开始萌生的想法是**把胖车库的所有的粉丝打赏，**[返还他们对应的token](http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&mid=2247484688&idx=1&sn=68259a6b9e3994f8f565127948be90c8&chksm=fe624bbec915c2a84040a20a3060b1f03d6c1bb3d5d032c2c25b262dc248b84dcb0abb400838&scene=21#wechat_redirect)**.**你可以用这个token在胖车库里**交换其他的权益**，比如自动加入一个[「赏金计划」](http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&mid=2247485809&idx=1&sn=5cd2dc98707f38ddfd0b5c93d6771cd5&chksm=fe6247dfc915cec9152693b2ed3db5b212a97dd85e73af874474d2259a9d81ade550d2ff59d4&scene=21#wechat_redirect)，或**参与一个有趣的生意，**比如支持一件滑雪服或Roam的小文创商店*，或者更刺激一点，**参与一次ITO...**
 
