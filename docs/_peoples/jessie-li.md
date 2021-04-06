@@ -1,5 +1,5 @@
 ---
-name: Jessie LI (李格)
+name: Jessie LI
 site: https://fat-garage.com
 avatar: /assets/peoples/jessie-li/avatar.jpg
 bio: 致力于推进跨地域的文化技术交流
