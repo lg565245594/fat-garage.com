@@ -24,7 +24,7 @@ Naval在[如何不靠运气变得富有（19）](http://mp.weixin.qq.com/s?__biz
 
 比如，物理世界你要练1000个小时才能达到那种程度，拍一个包含你能力和想法的视频作品，你相信自己这方面独特的价值、期待这个创作可以带来实际的财富💰 。但因为物理世界你没那么多时间去练习（或者说时间无法加速），但是数字世界的你却可以加速这一过程，就可以想象成POI中的simulation。
 
-<div align=center><img src="/assets/2021/04/29/3.png"/></div>poi simulation
+<div align=center><img src="/assets/2021/04/29/3.gif"/></div>poi simulation
 
 简单的说，如果数字世界可以让**你的价值转化为财富**的话，物理世界的你可以更专注于创造和挖掘价值之外的事。
 
