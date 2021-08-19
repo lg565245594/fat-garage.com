@@ -1,5 +1,5 @@
 ---
-title: 如果我们这样看一个NFT
+title: 一起开一间「梯田图书馆」？
 author: jessie-li
 categories: news
 tags:
