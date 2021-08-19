@@ -54,12 +54,15 @@ image: assets/2021/08/13/1.png
 * Blitmap——原始NFT
 
 Blitmap是这个系列的原始NFT，由16个艺术家设计100个原创像素作品（pixel），并由社区将任意两个mix后形成1600个siblings衍生作品。一共1700个作品。
+<div align=center><img src="/assets/2021/08/13/2.png"/></div>
 
 *Blitmaps 两两生成一个新的*
+<div align=center><img src="/assets/2021/08/13/3.png"/></div>
 
 *共计1700个Blitmap，笔者的寿司在中心处*
 
 * Blitnauts——「有生命」的角色
+<div align=center><img src="/assets/2021/08/13/4.png"/></div>
 
 *第5个角色：DEX*
 
@@ -68,6 +71,7 @@ Blitnauts是Blitmaps的扩展，是由多位艺术家设计的10个角色NFT。�
 * The enemy——Blitnauts的敌人
 
 同样，敌人角色也会免费分发给所有Blitmap&Blitnauts的拥有者。
+<div align=center><img src="/assets/2021/08/13/5.png"/></div>
 
 ### 参与性（How collective）？
 
@@ -85,7 +89,7 @@ Blitnauts是Blitmaps的扩展，是由多位艺术家设计的10个角色NFT。�
 
 🧝‍♂️拥有任意Blitmap Sibling的人可选择一个Blitnaut
 
-
+<div align=center><img src="/assets/2021/08/13/6.png"/></div>
 
 
 •自定义你的NFT特征（customize-your-character-on-chain）——为你的NFT角色上色，并上链。
@@ -93,7 +97,7 @@ Blitnauts是Blitmaps的扩展，是由多位艺术家设计的10个角色NFT。�
 之前我[介绍Takensthereom](http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&mid=2247486335&idx=1&sn=8951b3de6b7b5e27a94b144af72a31dd&chksm=fe6245d1c915ccc7bb88355fc6cb897958ebdea07ad4b2552e2c4eb8cf9b3a8a36fa664606c7&scene=21#wechat_redirect)的作品时，也提到了这个特质：藏家可以为链上作品添加自定义的元素，用一行代码就可以改变作品的样貌，此过程上链。
 
 •根据roadmap，Blitnauts的名字、他们的敌人（The enemies），以及他将来可能陷入的游戏/故事剧情将由社区建议并投票确定。
-
+<div align=center><img src="/assets/2021/08/13/7.png"/></div>
 
 *Blitmap Roadmap*
 
@@ -105,12 +109,15 @@ Blitmap的社区和meme网络，是围绕发起人*dom Hoffman*和一些活跃�
 #### 围绕核心协作者形成的网络
 
 我粗略地map了一下这个网络在我脑子里的大概形态，如果细化会有更多节点和链接。
+<div align=center><img src="/assets/2021/08/13/8.png"/></div>
 
 下图是对上图中涉及到的人（节点）的简单介绍。
+<div align=center><img src="/assets/2021/08/13/9.png"/></div>
 
 而图中的[[]]又会形成新的网络，这我不画你也知道。
 
 接下来，或许我们可以通过track社区成员们（节点）经诸如Twitter、Discord等社交媒体形成social graph，进行可视化分析，看看这些枢纽节点是如何内部链接、并与外部网络相连。但我目前没有抓取相关数据的经验，有兴趣的小伙伴可以来助攻这一趴；）
+<div align=center><img src="/assets/2021/08/13/10.png"/></div>
 
 *discord中分配社区角色*
 
@@ -122,12 +129,14 @@ Blitmap的社区和meme网络，是围绕发起人*dom Hoffman*和一些活跃�
 
 **•nansen.ai**
 
+<div align=center><img src="/assets/2021/08/13/11.png"/></div>
 
 **•dune analytics**
-
+<div align=center><img src="/assets/2021/08/13/12.png"/></div>
 
 •**footprint**
 
+<div align=center><img src="/assets/2021/08/13/13.png"/></div>
 
 **其他工具**：参阅Bankless总结、律动编译的Tools for NFT Summer(https://www.theblockbeats.com/news/25883)
 
@@ -135,6 +144,7 @@ Blitmap的社区和meme网络，是围绕发起人*dom Hoffman*和一些活跃�
 
 这篇文章主要基于具体的观察，提出一些NFT网络相关的猜想，试图寻找一些一般化的东西。当你为大众呈现出一些东西的时候，你希望他们理解，就像你自己理解的过程一样，而不是告诉他们追着流行就行。**我甚至觉得流行不是那么重要的事**，因为流行的东西层出不穷，只能‘追赶’而无法理解，进而无法预测。还记得头号玩家中男主角是怎么赢得的第一把钥匙吗？因为他进入了「看的见」的地下层，而不是众人追逐无数次未果的地上层。
 
+<div align=center><img src="/assets/2021/08/13/14.png"/></div>
 *电影头号玩家*
 
 下一步则是验证**猜想**，进行相关数据收集和可视化。在和nansen和dune的开发人员聊天的时候，他们都在感叹自己的用户**对NFT数据**与日俱增的兴趣（dune最近还上线了新的数据可视化及组合工具footprint，在邀请内测）。
@@ -145,6 +155,7 @@ Blitmap的社区和meme网络，是围绕发起人*dom Hoffman*和一些活跃�
 
 如何进一步通过数据**理解网络**，结合这些工具帮助我们决策也是我在[OwnershipLabs](http://mp.weixin.qq.com/s?__biz=Mzg3MzUzMDE3Mg==&mid=2247483795&idx=1&sn=b1cf686e8ca13f36a1987d51c19b9982&chksm=cedfd7c0f9a85ed6159edd82ff93dd5524cff06f191d806e62a7ab6a13d50d12bde9c82a6244&scene=21#wechat_redirect)研究的重点之一。终究我们希望帮助人们（至少现在帮助自己）通过curate NFT理解更多的东西：NFT不只是JPEG，它的超能力或许**从来不是权益分级的入场券，而是揭开迷人网络的放大镜。**
 
+<div align=center><img src="/assets/2021/08/13/15.png"/></div>
 *放大镜*
 
 最后，一个小视频送给大家，素材来源自Blitmap社区，我给整合到了一起。Enjoy
