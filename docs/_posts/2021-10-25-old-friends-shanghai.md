@@ -22,9 +22,7 @@ image: assets/2021/10/25/1.png
 
 图1. 合作小伙伴
 
-现场这些贴纸将会被随机装入印有dataverse logo的盲盒中。来
-
-用dataverse收藏一下对应的NFT吧！
+现场这些贴纸将会被随机装入印有dataverse logo的盲盒中。来用dataverse收藏一下对应的NFT吧！
 <div align=center><img src="/assets/2021/10/25/3.png"/></div>
 ### Curation map
 
