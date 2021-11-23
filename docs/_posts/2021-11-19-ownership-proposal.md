@@ -9,7 +9,6 @@ tags:
 image: assets/2021/11/19/4.png
 ---
 我在10月2号和George谈话后写了一些东西，他的想法提醒/唤醒了我一个长期的想法，即建立一个**DAO**。
-
 但这次**有一点新的想法**。
 
 <div align=center><img src="/assets/2021/11/19/2.png"/></div>
