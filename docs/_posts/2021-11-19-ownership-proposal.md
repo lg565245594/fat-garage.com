@@ -1,5 +1,5 @@
 ---
-title: [[OwnershipDAO]] playboook_ a proposal
+title: OwnershipDAO playboook_ a proposal
 author: jessie-li
 categories: news
 tags:
@@ -96,5 +96,4 @@ image: assets/2021/11/19/4.png
 
 这个过程也将是一个DAO的实践（比如，你可以和我一起搞NFT那一趴，或者网站），如果有人想以任何方式做出贡献，给我发邮件：jessie@fat-garage.com。if you want to be part of the bird flock ;)
 
-Can see the working document (keep updating) via 阅读原文 
 
