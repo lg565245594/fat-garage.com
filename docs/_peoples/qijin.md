@@ -4,7 +4,7 @@ site: https://fat-garage.com
 avatar: /assets/peoples/qijin/avatar.jpg
 bio: 胖车库司机
 email: contact@fat-garage.com
-twitter: 
+twitter: https://twitter.com/Akafivon
 itjuzi: 
 tags:
   - lp
@@ -18,7 +18,7 @@ tags:
 #### 如果你想了解他更多：
 
 [领英Linkedin](https://www.linkedin.com/in/qijin-zhang-582778107)
-
+[Twitter](https://twitter.com/Akafivon)
 
 
 #### 觉得胖车库吸引你的地方：
