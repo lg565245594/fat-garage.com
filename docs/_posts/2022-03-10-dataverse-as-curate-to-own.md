@@ -10,7 +10,7 @@ image: assets/2022/03/10/2.png
 ---
 
 
-<div align=center>Dataverse is building a composable 「Finder」 system which tied to your unified&dynamic persona.</div>
+<div align=center>Dataverse, your secure personal space in web3</div>
 
 ## Problem
 
