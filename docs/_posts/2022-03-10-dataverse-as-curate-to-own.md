@@ -81,7 +81,7 @@ Just like metamask as your assets wallet, dataverse can be your "data wallet"
 Just like *Finder*, your curations (in the future, data assets) can be categorized, filtered, removed and foresee-ably,composed.
 <div align=center><img src="/assets/2022/03/10/7.png"/></div>
 
-## 
+
 ## Pluggability
 
 As said, you maintain a **unified persona** in dataverse, which is totally under your control and can be plugged into any third party applications.
@@ -111,7 +111,7 @@ Curationa[6] is an important process of "advertising" good content, we are sugg
 <div align=center><img src="/assets/2022/03/10/9.png"/></div>
 *how about decentralize media and make it dynamic?*
 
-### Work with **artists and DAOs** to explore dynamic persona.[7]
+Work with **artists and DAOs** to explore dynamic persona.[7]
 
 ## Future Use Cases
 
@@ -131,11 +131,11 @@ We are a distributed team across China (Beijing and Hangzhou); We started from f
 
 ## Contact
 
-gitcoin GR13
+gitcoin GR13：https://gitcoin.co/grants/2445/fat-garage-newsletter-as-nft-jpeg
 
-mirror
+mirror：
 
-twitter
+twitter：https://twitter.com/JESSCATE93
 
 ### References
 
