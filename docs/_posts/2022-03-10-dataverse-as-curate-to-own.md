@@ -131,11 +131,11 @@ We are a distributed team across China (Beijing and Hangzhou); We started from f
 
 ## Contact
 
-gitcoin GR13：https://gitcoin.co/grants/2445/fat-garage-newsletter-as-nft-jpeg
+gitcoin GR13：[https://gitcoin.co/grants/2445/fat-garage-newsletter-as-nft-jpeg](https://gitcoin.co/grants/2445/fat-garage-newsletter-as-nft-jpeg)
 
-mirror：
+mirror：[https://mirror.xyz/dashboard/edit/I9nC9Ebp3NZvEOLh8hnPFSX4mPWQyQfZAM3G8ufSHSA]https://mirror.xyz/dashboard/edit/I9nC9Ebp3NZvEOLh8hnPFSX4mPWQyQfZAM3G8ufSHSA）
 
-twitter：https://twitter.com/JESSCATE93
+twitter：[https://twitter.com/JESSCATE93](https://twitter.com/JESSCATE93)
 
 ### References
 
