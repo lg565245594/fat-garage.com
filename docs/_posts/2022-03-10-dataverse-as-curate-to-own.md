@@ -9,9 +9,8 @@ tags:
 image: assets/2022/03/10/2.png
 ---
 
-<div align=center><img src="/assets/2022/03/10/2.png"/></div>
 
-<div align=center>Dataverse is building a composable *Finder* system which tied to your unified&dynamic persona.</div>
+<div align=center>Dataverse is building a composable 「Finder」 system which tied to your unified&dynamic persona.</div>
 
 ## Problem
 
