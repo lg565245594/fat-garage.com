@@ -4,7 +4,7 @@ site: https://fat-garage.com
 avatar: /assets/peoples/jessie-li/avatar.jpg
 bio: 致力于推进跨地域的文化技术交流
 email: contact@fat-garage.com
-twitter: 
+twitter: https://twitter.com/JESSCATE93
 itjuzi: 
 tags:
   - lp
