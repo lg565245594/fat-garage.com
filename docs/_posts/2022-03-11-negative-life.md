@@ -1,5 +1,5 @@
 ---
-title: "negative" life
+title: negative life
 author: jessie-li
 categories: news
 tags:
