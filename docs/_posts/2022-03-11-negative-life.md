@@ -1,5 +1,5 @@
 ---
-title: negative life
+title: 消极生活
 author: jessie-li
 categories: news
 tags:
