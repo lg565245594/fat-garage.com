@@ -42,6 +42,7 @@ This haven't been achieved, yet.
 
 During an unexpected lock down, I think of a writing challenge on whatever i feel like writing at the moment i woke up in the morning, in English. The fun part is, i could think of words (verbs, nouns, adjectives etc) in Chinese and find the words accordingly in English, and then structure sentences around them. Certain harmony or even symphony was evoked in my mind while the words organizing themselves.
 
+
 **Today’s piece is about some recent thoughts on writing and inspiration from reading Ayn Rand's****《Anthem》****.**
 
 original post on mirror with a better layout:
